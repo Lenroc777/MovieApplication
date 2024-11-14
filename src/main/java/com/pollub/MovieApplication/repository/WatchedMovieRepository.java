@@ -1,7 +1,7 @@
-package com.example.MovieApp.repository;
+package com.pollub.MovieApplication.repository;
 
-import com.example.MovieApp.entity.WatchedMovie;
-import com.example.MovieApp.entity.WatchedMovieKey;
+import com.pollub.MovieApplication.entity.WatchedMovie;
+import com.pollub.MovieApplication.entity.WatchedMovieKey;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

@@ -1,4 +1,4 @@
-package com.example.MovieApp.entity;
+package com.pollub.MovieApplication.entity;
 
 import jakarta.persistence.*;
 import java.util.Date;

@@ -1,8 +1,8 @@
 
-package com.example.MovieApp.controller;
+package com.pollub.MovieApplication.controller;
 
-import com.example.MovieApp.entity.WatchedMovie;
-import com.example.MovieApp.entity.WatchedMovieKey;
+import com.pollub.MovieApplication.entity.WatchedMovie;
+import com.pollub.MovieApplication.entity.WatchedMovieKey;
 import com.example.MovieApp.service.WatchedMovieService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

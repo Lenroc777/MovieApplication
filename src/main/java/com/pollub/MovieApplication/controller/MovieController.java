@@ -1,7 +1,7 @@
-package com.example.MovieApp.controller;
+package com.pollub.MovieApplication.controller;
 
-import com.example.MovieApp.entity.Movie;
-import com.example.MovieApp.service.MovieService;
+import com.pollub.MovieApplication.entity.Movie;
+import com.pollub.MovieApplication.service.MovieService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
