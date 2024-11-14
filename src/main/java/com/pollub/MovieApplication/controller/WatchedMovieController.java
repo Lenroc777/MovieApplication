@@ -3,7 +3,7 @@ package com.pollub.MovieApplication.controller;
 
 import com.pollub.MovieApplication.entity.WatchedMovie;
 import com.pollub.MovieApplication.entity.WatchedMovieKey;
-import com.example.MovieApp.service.WatchedMovieService;
+import com.pollub.MovieApplication.service.WatchedMovieService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

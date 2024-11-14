@@ -11,12 +11,12 @@ public class WatchedMovie {
     private WatchedMovieKey id;
 
     @ManyToOne
-    @MapsId("userId")
+    @MapsId("userId")  // Maps the "userId" from the composite key to the "userId" column
     @JoinColumn(name = "userId")
     private User user;
 
     @ManyToOne
-    @MapsId("movieId")
+    @MapsId("movieId")  // Maps the "movieId" from the composite key to the "movieId" column
     @JoinColumn(name = "movieId")
     private Movie movie;
 

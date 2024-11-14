@@ -17,6 +17,8 @@ public class Movie {
     @Lob
     private String description;
 
+
+
     @Temporal(TemporalType.DATE)
     private Date releaseDate;
 
