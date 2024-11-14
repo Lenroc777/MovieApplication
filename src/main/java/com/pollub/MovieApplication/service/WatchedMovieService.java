@@ -1,8 +1,8 @@
-package com.example.MovieApp.service;
+package com.pollub.MovieApplication.service;
 
-import com.example.MovieApp.entity.WatchedMovie;
-import com.example.MovieApp.entity.WatchedMovieKey;
-import com.example.MovieApp.repository.WatchedMovieRepository;
+import com.pollub.MovieApplication.entity.WatchedMovie;
+import com.pollub.MovieApplication.entity.WatchedMovieKey;
+import com.pollub.MovieApplication.repository.WatchedMovieRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import java.util.List;

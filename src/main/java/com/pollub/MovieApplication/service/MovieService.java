@@ -1,6 +1,6 @@
-package com.example.MovieApp.service;
+package com.pollub.MovieApplication.service;
 
-import com.example.MovieApp.entity.Movie;
+import com.pollub.MovieApplication.entity.Movie;
 import com.pollub.MovieApplication.repository.MovieRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
